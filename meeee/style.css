@@ -48,7 +48,7 @@ table {
 }
 
 /* Add Styles Here */
-body { font-family:Helvetica; font-size:11px; align: center }
+body { font-family:Helvetica; font-size:11px;  }
 section#content { margin:0 auto; width:960px; padding:20px 0px; }
 
 h1 { font-size:48px; font-weight:bold; color:black; text-align:center; }
