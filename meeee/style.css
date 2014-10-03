@@ -48,3 +48,9 @@ table {
 }
 
 /* END OF RESET - Start of Your CSS*/
+body {
+	font-family: helvetica;
+	color: teal;
+	font-size: 10px;
+}
+}
