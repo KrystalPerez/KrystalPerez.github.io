@@ -50,10 +50,12 @@ table {
 /* END OF RESET - Start of Your CSS*/
 
 h1 {
-	font-family: helvetica;
-	font-size: 36pt;
-	font-family: bold;
 	text-align: center;
+	font-family: helvetica;
+	font-size: 36px;
+	font-weight: bold;
+	color: teal;
+	}
 }
 body {
 	font-family: helvetica;
