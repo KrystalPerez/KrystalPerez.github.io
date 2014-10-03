@@ -50,8 +50,9 @@ table {
 /* END OF RESET - Start of Your CSS*/
 
 header {
-	display: center;
-}
+text-align: center;
+	   }
+
 h2 {
 	text-align: center;
 	font-family: helvetica;
