@@ -49,9 +49,14 @@ table {
 
 /* END OF RESET - Start of Your CSS*/
 
+h1 {
+	font-family: helvetica;
+	font-size: 16pt;
+	font-family: bold;
+}
 body {
 	font-family: helvetica;
-	font-size: 11px;
+	font-size: 11pt;
 	text-align: center;
 }
 }
