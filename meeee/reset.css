@@ -81,4 +81,9 @@ body {
 	font-size: 11pt;
 	text-align: left;
 }
+
+ul {
+	text-align:center;
+   }
+}
 }
