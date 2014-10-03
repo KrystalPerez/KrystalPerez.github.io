@@ -1,4 +1,9 @@
-h1 {color: teal; font-family: helvetica; font-size: 16px; }
-h2 {color: teal; font-family: helvetica; font-size: 14px; }
-h3 {color: teal; font-family: helvetica; font-size: 12px; }
+@charset "UTF-8";
+/* CSS Document */
 
+h1 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 16px;
+	text-align: center;
+	color: #069;
+  }
