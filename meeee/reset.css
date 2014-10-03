@@ -50,12 +50,14 @@ table {
 /* END OF RESET - Start of Your CSS*/
 
 header {
-text-align: center;
+	text-align: center;
+	line-height: 1.43em;
 	   }
 h4	{
 	text-align: center;
 	font-size: 14px;
 	font-weight: bold;
+
 	}
 h2 {
 	text-align: center;
