@@ -52,5 +52,6 @@ table {
 body {
 	font-family: helvetica;
 	font-size: 11px;
+	float: none;
 }
 }
