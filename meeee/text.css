@@ -1,21 +1,12 @@
 <!DOCTYPE html>
 <html>
-<title>Text</title>
- <style type="text/css">
-h2 {
-font-family: helvetica, bold;
-font-size: 16px;
-text-align: center;
- }
-h3 {
-font-family: helvetica, bold;
-font-size: 14px;
-text-align: center;
- }
-h4 {
-font-family: helvetica, bold;
-font-size: 10px;
-text-align: center;
- }
-</style>
-</html>
+	<head>
+		 <title>Stylesheet</title>
+			 <style type="text/css">
+ body {
+
+ font-size: 80%;
+ font-family: Arial, Helvetica, sans-serif";
+ text-align:"center"; 
+}
+</style></html>
