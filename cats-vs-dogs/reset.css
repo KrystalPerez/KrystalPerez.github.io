@@ -72,3 +72,18 @@ ul {
 display: table;
 margin: 0 auto;
 }
+nav li {
+float: left;
+padding: 5px;
+list-style-type: disc;
+text-align: center;
+margin-right: 20px;
+margin-left: 20px;
+font-size: 20px;
+text-transform: uppercase;
+font-weight: bold;
+}
+ul {
+display: table;
+margin: 0 auto;
+}
