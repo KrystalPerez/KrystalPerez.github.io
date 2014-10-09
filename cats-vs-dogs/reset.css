@@ -65,3 +65,7 @@ margin-bottom: 10px;
 width: 100%;
 display: inline-block;
 }
+ul {
+display: table;
+margin: 0 auto;
+}
