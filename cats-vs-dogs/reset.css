@@ -50,9 +50,6 @@ table {
 /* END OF RESET - Start of Your CSS*/
 
 #site-header {
-width: 445px;
-height: 95px;
-background: url(images/dogvscat-logo.gif)no-repeat center top;
+img-align: middle;
 display: inline-block;
-text-indent: -9999px;
 }
