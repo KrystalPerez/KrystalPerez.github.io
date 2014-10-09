@@ -52,7 +52,7 @@ table {
 #site-header {
 width: 445px;
 height: 95px;
-background: (images/dogvscat-logo.gif); 
+background: url(images/dogvscat-logo.gif)no-repeat center top;
 display: block;
 text-indent: -9999px;
 }
