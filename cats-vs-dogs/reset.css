@@ -89,6 +89,15 @@ ul {
 display: table;
 margin: 0 auto;
 }
+body{
+	body {
+	font-family: Garamond;
+	margin: 0 auto;
+	text-align: center;
+	width: 80%;
+	line-height: 1;
+	}
+}
 article {
 width: 45%;
 float: left;
