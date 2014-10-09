@@ -55,7 +55,7 @@ height: 155px;
 background: url(images/dogvscat-logo.gif) no-repeat; center:top;
 display: block;
 text-indent: -9999px;
-position: relative;
+position: middle;
 }
 h1 {
 font-weight: bold;
