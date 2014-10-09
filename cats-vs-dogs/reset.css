@@ -86,10 +86,8 @@ font-weight: bold;
 ul {
 display: table;
 margin: 0 auto;
+list-style:none;
 }
-element.style {
-}
-index.htmlmedia="screen"
 article {
 width: 45%;
 float: left;
