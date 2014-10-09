@@ -56,6 +56,10 @@ background: url(images/dogvscat-logo.gif)no-repeat center top;
 display: block;
 text-indent: -9999px;
 }
+h1 {
+font-weight: bold;
+font-size: 20px;
+}
 nav {
 border-top: 4px solid black;
 border-bottom: 4px solid black;
@@ -86,7 +90,6 @@ font-weight: bold;
 ul {
 display: table;
 margin: 0 auto;
-list-style:none;
 }
 article {
 width: 45%;
@@ -101,18 +104,4 @@ line-height: 1.3em;
 }
 #content {
 clear: both;
-}
-footer {
-position: relative;
-border-top: 2px solid black;
-clear: both;
-}
-body {
-font-family: Garamond;
-margin: 0 auto;
-text-align: center;
-width: 80%;
-}
-body {
-line-height: 1;
 }
