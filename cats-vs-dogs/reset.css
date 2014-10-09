@@ -49,7 +49,6 @@ table {
 
 /* END OF RESET - Start of Your CSS*/
 
-headerimg.align-middle {
-	float: center;
-	margin: 10px;
+header {
+	img.align: middle;
 }
