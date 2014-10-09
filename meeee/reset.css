@@ -51,7 +51,7 @@ table {
 
 header {
 	text-align: center;
-	line-height: 1em;
+	line-height: 1.5em;
 	   }
 h4	{
 	text-align: center;
@@ -66,7 +66,7 @@ h2 {
 	font-size: 24px;
 	font-weight: bolder;
 	color: teal;
-	line-height: 2.3em;
+	line-height: 2em;
 	}
 h3 {
 	text-align: center;
