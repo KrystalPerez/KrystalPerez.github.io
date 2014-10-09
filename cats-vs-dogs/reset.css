@@ -53,7 +53,7 @@ table {
 width: 445px;
 height: 95px;
 background: url(images/dogvscat-logo.gif)no-repeat center top;
-display: inline-block;
+display: block;
 text-indent: -9999px;
 }
 nav {
@@ -86,4 +86,35 @@ font-weight: bold;
 ul {
 display: table;
 margin: 0 auto;
+}
+element.style {
+}
+index.htmlmedia="screen"
+article {
+width: 45%;
+float: left;
+text-align: left;
+margin-bottom: 20px;
+padding: 10px;
+display: block;
+}
+p {
+line-height: 1.3em;
+}
+#content {
+clear: both;
+}
+footer {
+position: relative;
+border-top: 2px solid black;
+clear: both;
+}
+body {
+font-family: Garamond;
+margin: 0 auto;
+text-align: center;
+width: 80%;
+}
+body {
+line-height: 1;
 }
