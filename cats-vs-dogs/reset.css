@@ -50,17 +50,12 @@ table {
 /* END OF RESET - Start of Your CSS*/
 
 #site-header {
-width: 749px;
-height: 155px;
+width: 445px;
+height: 95px;
 background: url(images/dogvscat-logo.gif) no-repeat; center:top;
 display: block;
 text-indent: -9999px;
 position: center;
-}
-h1 {
-font-weight: bold;
-font-size: 20px;
-size: 445px x 95px;
 }
 nav {
 border-top: 4px solid black;
