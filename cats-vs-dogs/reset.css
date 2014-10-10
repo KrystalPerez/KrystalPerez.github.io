@@ -68,7 +68,7 @@ width: 100%;
 display: inline-block;
 }
 ol, ul {
-list-style: circle;
+list-style-type: circle;
 display: table;
 margin: 0 auto;
 }
