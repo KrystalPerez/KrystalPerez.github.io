@@ -56,7 +56,8 @@ background: url(images/dogvscat-logo.gif) no-repeat center top;
 display: block;
 text-indent: -9999px;
 float:center;
-margin: 3px auto;
+margin: 0px auto;
+padding: 5px;
 }
 nav {
 border-top: 4px solid black;
