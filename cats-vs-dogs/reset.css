@@ -61,6 +61,7 @@ margin: 15px auto;
 nav {
 border-top: 4px solid black;
 border-bottom: 4px solid black;
+border-width:80% center;
 height: 29px;
 margin-top: 0px;
 margin-bottom: 10px;
