@@ -127,6 +127,9 @@ display:block;
 font-family: Garamond;
 font-size:10px;
 }
+footer-a.link{
+	color:red;
+}
 #wiki {
 float: left;
 left: 0px;
@@ -139,7 +142,5 @@ right: 20px;
 bottom: -23px;
 margin-right: 10px;
 }
-a:link {
-	color:red;
-}
+
 }
