@@ -108,11 +108,9 @@ padding: 10px;
 display: block;
 }
 h1 {
-	font-family: Garamond;
-	font-size:14px;
-	font-weight: bold;
-	font-height:1.5em;	
-}
+font-family: Garamond;
+font-size:14px;
+font-weight: bold;
 p {
 line-height: 1.3em;
 }
@@ -138,4 +136,8 @@ float: right;
 right: 20px;
 bottom: -23px;
 margin-right: 10px;
+}
+a:link {
+color: red;
+}
 }
