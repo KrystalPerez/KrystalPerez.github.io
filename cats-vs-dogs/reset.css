@@ -68,9 +68,12 @@ width: 100%;
 display: inline-block;
 }
 ol, ul {
-list-style-type: circle;
+list-style: none;
 display: table;
 margin: 0 auto;
+}
+ul.a {
+list-style-type:circle;
 }
 nav li {
 float: left;
