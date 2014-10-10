@@ -117,3 +117,15 @@ border-top: 2px solid black;
 clear: both;
 display:block;
 }
+#wiki {
+position: absolute;
+left: 0px;
+bottom: -23px;
+margin-left: 10px;
+}
+#copy {
+position: absolute;
+right: 0px;
+bottom: -23px;
+margin-right: 10px;
+}
