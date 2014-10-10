@@ -110,7 +110,8 @@ display: block;
 h1 {
 	font-family: Garamond;
 	font-size:14px;
-	font-weight: bold;	
+	font-weight: bold;
+	font-height: 1.5em;	
 }
 p {
 line-height: 1.3em;
