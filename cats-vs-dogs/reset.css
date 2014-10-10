@@ -119,12 +119,14 @@ display:block;
 }
 #wiki {
 position: absolute;
+float: left;
 left: 0px;
 bottom: -23px;
 margin-left: 10px;
 }
 #copy {
 position: absolute;
+float: right;
 right: 0px;
 bottom: -23px;
 margin-right: 10px;
