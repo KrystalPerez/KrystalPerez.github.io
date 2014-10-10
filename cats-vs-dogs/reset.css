@@ -97,7 +97,7 @@ body{
 	line-height: 1;
 	}
 }
-article {
+article 1{
 width: 45%;
 float: left;
 text-align: left;
@@ -105,6 +105,15 @@ margin-bottom: 20px;
 padding: 10px;
 display: block;
 }
+article 2{
+width: 45%;
+float: right;
+text-align: left;
+margin-bottom: 20px;
+padding: 10px;
+display: block;
+}
+
 p {
 line-height: 1.3em;
 }
