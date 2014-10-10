@@ -57,6 +57,7 @@ display: block;
 text-indent: -9999px;
 float:center;
 margin: 15px auto;
+padding: 5px;
 }
 nav {
 border-top: 4px solid black;
