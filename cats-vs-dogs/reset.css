@@ -112,6 +112,7 @@ line-height: 1.3em;
 clear: both;
 }
 footer {
+position: relative;
 border-top: 2px solid black;
 clear: both;
 display:block;
