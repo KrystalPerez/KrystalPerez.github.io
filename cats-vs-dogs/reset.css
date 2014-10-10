@@ -57,7 +57,6 @@ display: block;
 text-indent: -9999px;
 float:center;
 margin: 15px auto;
-padding: 5px;
 }
 nav {
 border-top: 4px solid black;
@@ -75,7 +74,7 @@ margin: 0 auto;
 }
 nav li {
 float: left;
-padding: 3px;
+padding: 5px;
 list-style-type: disc;
 text-align: center;
 margin-right: 20px;
