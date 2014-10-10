@@ -67,11 +67,7 @@ margin-bottom: 10px;
 width: 100%;
 display: inline-block;
 }
-ol, ul {
-list-style: none;
-display: table;
-margin: 15px auto;
-}
+
 nav li {
 float: left;
 padding: 5px;
@@ -83,7 +79,7 @@ font-size: 20px;
 text-transform: uppercase;
 font-weight: bold;
 }
-ul {
+ul li{
 display: table;
 margin: 0 auto;
 }
