@@ -116,6 +116,8 @@ position: relative;
 border-top: 2px solid black;
 clear: both;
 display:block;
+font-family: Garamond;
+font-size:10px;
 }
 #wiki {
 float: left;
