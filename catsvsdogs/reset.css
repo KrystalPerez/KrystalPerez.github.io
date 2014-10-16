@@ -160,6 +160,7 @@ p.left-corner {
 p.right-corner {
 	float: right;
 	text-align: right;
+	margin: 10px x 20px;
 }
 
 em {
