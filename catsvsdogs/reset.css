@@ -88,6 +88,7 @@ div {
 	border-top: 3px;
 	border-bottom: 3px;
 	border-style: solid;
+	display: inline-block;
 }
 
 #main-menu li {
