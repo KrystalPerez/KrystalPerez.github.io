@@ -61,6 +61,15 @@ header {
 	vertical-align: baseline;
 }
 
+#logo {
+	padding: 20px;
+	background-color: white;
+	margin: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
 
 
 
