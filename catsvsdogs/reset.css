@@ -176,6 +176,7 @@ footer {
 	font: inherit;
 	vertical-align: baseline;
 	display: block;
+	text-align: right;
 }
 
 em {
