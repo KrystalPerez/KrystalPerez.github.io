@@ -55,7 +55,6 @@ display: none;
 }
 
 header {
-	text-align: center;
 	display: block;
 	vertical-align: baseline;
 }
@@ -94,6 +93,8 @@ body {
 	margin: 0;
 	border: 0;
 	vertical-align: baseline;
+	width: 485px;
+	height: 135px;
 }
 
 div {
