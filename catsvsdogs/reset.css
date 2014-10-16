@@ -71,14 +71,9 @@ header {
 
 body {
 	width: 960px;
-	height: 203px;
 	margin: 0 auto;
 	position: relative;
 	line-height: 1;
-	display: block;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
 }
 
 div {
