@@ -87,19 +87,12 @@ div {
 
 #main-menu {
 	position: relative;
-	width: 960px;
-	height: 65px;
+	height: 55px;
 	text-align: center;
 	padding: 2px;
 	border-top: 3px;
 	border-bottom: 3px;
 	border-style: solid;
-	display: block;
-	margin: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
 }
 
 section {
