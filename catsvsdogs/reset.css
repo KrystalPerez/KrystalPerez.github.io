@@ -84,8 +84,7 @@ body {
 	border-top: 3px;
 	border-bottom: 3px;
 	border-style: solid;
-	border-color: black;
-	display: inline-block;
+	vertical-align: baseline;
 }
 
 #main-menu li {
