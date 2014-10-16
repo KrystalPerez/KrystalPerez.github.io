@@ -159,19 +159,12 @@ footer {
 p.left-corner {
 	float: left;
 	width: 70%;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-	display: block;
+	text-align: left;
 }
 
 p.right-corner {
 	float: right;
 	width: 30%;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline;
-	display: block;
 	text-align: right;
 }
 
