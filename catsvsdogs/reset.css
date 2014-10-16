@@ -50,15 +50,21 @@ table {
 
 /* END OF RESET - Start of Your CSS*/
 
-head { 
-display: none;
-}
-
 header {
 	display: block;
 	vertical-align: baseline;
 	width: 960px;
 	height: 203px;
+}
+
+#logo {
+	padding: 20px;
+	background-color: white;
+	margin: 0;
+	border: 0;
+	vertical-align: baseline;
+	width: 485px;
+	height: 135px;
 }
 
 body {
@@ -87,16 +93,6 @@ body {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-}
-}
-#logo {
-	padding: 20px;
-	background-color: white;
-	margin: 0;
-	border: 0;
-	vertical-align: baseline;
-	width: 485px;
-	height: 135px;
 }
 
 div {
