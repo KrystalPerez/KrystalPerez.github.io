@@ -108,6 +108,14 @@ section {
 	width: 960px;
 }
 
+h1 {
+	font-weight: bold
+}
+
+h2 {
+	font-weight: bold
+}
+
 #dog {
 	float: left;
 	width: 384px;
