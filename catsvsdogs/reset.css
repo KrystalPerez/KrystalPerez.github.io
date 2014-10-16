@@ -80,6 +80,10 @@ div {
 	display: block;
 }
 
+nav {
+	text-align: center;
+}
+
 #main-menu {
 	position: relative;
 	height: 55px;
