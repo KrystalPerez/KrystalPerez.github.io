@@ -154,14 +154,11 @@ footer {
 
 p.left-corner {
 	float: left;
-	width: 70%;
 }
 
 p.right-corner {
 	float: right;
 	text-align: right;
-	margin: 10px x 20px;
-	width: 240px;
 }
 
 em {
