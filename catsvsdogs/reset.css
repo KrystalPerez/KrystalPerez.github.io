@@ -59,6 +59,9 @@ header {
 	vertical-align: baseline;
 	width: 960px;
 	height: 203px;
+	text-align: center;
+	font-size: 100%;
+	font: inherit;
 }
 
 #logo {
