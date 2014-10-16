@@ -84,19 +84,13 @@ nav {
 	vertical-align: baseline;
 }
 
-#main-menu li {
-float: left;
-padding: 5px;
-margin-left: 5px;
-text-indent: 30px;
-}
-
-#main-menu li {
-float: left;
-display: inline-block;
-padding: 5px;
-margin-left: 5px;
-text-indent: 30px;
+li {
+	float: left;
+	margin: 0 auto;
+	padding: 7px;
+	text-transform: uppercase;
+	font-family: Georgia;
+	font-size: 25px;
 }
 
 a {
