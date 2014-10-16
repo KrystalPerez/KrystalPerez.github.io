@@ -81,7 +81,7 @@ div {
 }
 
 #main-menu {
-	position: absolute;
+	position: static;
 	height: 55px;
 	text-align: center;
 	padding: 2px;
