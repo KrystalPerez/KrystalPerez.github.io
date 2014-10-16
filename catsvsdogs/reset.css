@@ -79,28 +79,7 @@ div {
 	text-align: center;
 }
 
-section {
-	border-style: solid;
-	border-bottom: 3px;
-	margin: 0;
-	padding: 0;
-	border: 0;
-	font-size: 100%;
-	font: inherit;
-	vertical-align: baseline
-}
 
-#dog {
-	float:left;
-	width: 40%;
-	margin: 15px;
-	padding: 0px;
-	display:block;
-	border: 0;
-	font-size: 100%
-	font- inherit
-	vertical-align: baseline;
-}
 
 
 
