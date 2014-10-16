@@ -95,6 +95,10 @@ div {
 	border-style: solid;
 }
 
+ol,ul {
+	list-style: none;
+}
+
 section {
 	padding: 0px;
 	border-style: solid;
