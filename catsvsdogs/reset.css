@@ -83,7 +83,7 @@ div {
 #main-menu {
 	position: relative;
 	height: 55px;
-	text-align: justify;
+	text-align: center;
 	padding: 2px;
 	border-top: 3px;
 	border-bottom: 3px;
@@ -176,3 +176,6 @@ footer {
 	display: block;
 }
 
+em {
+	color: red;
+}
