@@ -87,14 +87,6 @@ body {
 	display: block;
 }
 
-#main-menu li {
-	float: left;
-	display: inline-block;
-	padding: 5px;
-	margin-left: 5px;
-	text-indent: 30px;
-}
-
 a {
 	color: black;
 	text-decoration: none;
