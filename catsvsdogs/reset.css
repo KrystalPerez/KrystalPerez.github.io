@@ -55,13 +55,7 @@ html {
 }
 
 header {
-	display: block;
-	vertical-align: baseline;
-	width: 960px;
-	height: 203px;
 	text-align: center;
-	font-size: 100%;
-	font: inherit;
 }
 
 #logo {
@@ -78,8 +72,6 @@ body {
 #main-menu {
 	position: relative;
 	height: 55px;
-	text-align: center;
-	padding: 2px;
 	border-top: 3px;
 	border-bottom: 3px;
 	border-style: solid;
