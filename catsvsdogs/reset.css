@@ -95,8 +95,12 @@ div {
 	border-style: solid;
 }
 
-ol,ul {
-	list-style: none;
+#main-menu li {
+	float: left;
+	display: block;
+	padding: 5px;
+	margin-left: 5px;
+	text-indent: 30px;
 }
 
 section {
