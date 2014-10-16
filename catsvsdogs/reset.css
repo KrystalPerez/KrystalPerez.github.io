@@ -50,12 +50,30 @@ table {
 
 /* END OF RESET - Start of Your CSS*/
 
+title { 
+display: none;
+}
+
+body {
+	width: 960px;
+	margin: 0 auto;
+	position: relative;
+	display: block;
+	vertical-align: baseline;
+}
+
 header {
 	text-align: center;
 	display: block;
-	margin: 0;
-	padding: 0;
-	border: 0;
+	vertical-align: baseline;
+}
+
+body {
+	width: 960px;
+	margin: 0 auto;
+	position: relative;
+	line-height: 1;
+	display: block;
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
@@ -73,14 +91,49 @@ div {
 	margin: 0;
 	padding: 0;
 	border: 0;
-	font-size: 100%;
-	font: inherit;
 	vertical-align: baseline;
 	text-align: center;
 }
 
+section {
+	padding: 0px;
+	border-style: solid;
+	border-bottom: 3px;
+	display: block;
+	margin: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
 
+#dog {
+	float: left;
+	width: 40%;
+	margin: 15px;
+	padding: 0px;
+	display: block;
+	border: 0;
+	vertical-align: baseline;
+}
 
+#cat {
+	float: right;
+	width: 40%;
+	margin: 15px;
+	padding: 0px;
+	display: block;
+	border: 0;
+	vertical-align: baseline;
+}
 
-
+footer {
+	clear: both;
+	padding-left: 15px;
+	height: 55px;
+	float: left;
+	width: 98%;
+	display: block;
+	vertical-align: baseline;
+}
 
