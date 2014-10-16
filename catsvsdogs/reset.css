@@ -104,15 +104,6 @@ a {
 
 section {
 	padding: 0px;
-	border-style: solid;
-	border-bottom: 3px;
-	display: block;
-	margin: 0;
-	border: 0;
-	font-size: 85%;
-	font: inherit;
-	vertical-align: baseline;
-	width: 960px;
 }
 
 h1 {
