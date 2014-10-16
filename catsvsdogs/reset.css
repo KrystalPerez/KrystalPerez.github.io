@@ -79,6 +79,16 @@ body {
 	vertical-align: baseline;
 }
 
+div {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	vertical-align: baseline;
+	text-align: center;
+	width: 960px;
+	height: 65px;
+}
+
 #main-menu {
 	position: relative;
 	height: 55px;
@@ -93,14 +103,6 @@ body {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
-}
-
-div {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	vertical-align: baseline;
-	text-align: center;
 }
 
 section {
