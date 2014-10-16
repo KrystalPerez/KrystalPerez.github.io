@@ -87,11 +87,13 @@ div {
 	text-align: center;
 	width: 960px;
 	height: 65px;
+	display: block;
 }
 
 #main-menu {
 	position: relative;
-	height: 55px;
+	width: 960px;
+	height: 65px;
 	text-align: center;
 	padding: 2px;
 	border-top: 3px;
@@ -115,11 +117,13 @@ section {
 	font-size: 100%;
 	font: inherit;
 	vertical-align: baseline;
+	width: 960px;
 }
 
 #dog {
 	float: left;
-	width: 40%;
+	width: 384px;
+	height: 414px;
 	margin: 15px;
 	padding: 0px;
 	display: block;
@@ -129,7 +133,8 @@ section {
 
 #cat {
 	float: right;
-	width: 40%;
+	width: 384px;
+	height: 414px;
 	margin: 15px;
 	padding: 0px;
 	display: block;
@@ -145,5 +150,23 @@ footer {
 	width: 98%;
 	display: block;
 	vertical-align: baseline;
+}
+
+.left-corner {
+	float: left;
+	width: 70%;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	display: block;
+}
+
+.right-corner {
+	float: right;
+	width: 70%;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+	display: block;
 }
 
