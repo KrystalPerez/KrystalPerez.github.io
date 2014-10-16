@@ -84,6 +84,11 @@ nav {
 	vertical-align: baseline;
 }
 
+ul {
+margin: 0 auto;
+width: 670px;
+}
+
 li {
 	float: left;
 	margin: 0 auto;
