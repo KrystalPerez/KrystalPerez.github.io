@@ -81,10 +81,8 @@ div {
 }
 
 #main-menu {
-	position: static;
+	position: relative;
 	height: 55px;
-	text-align: center;
-	padding: 2px;
 	border-top: 3px;
 	border-bottom: 3px;
 	border-style: solid;
