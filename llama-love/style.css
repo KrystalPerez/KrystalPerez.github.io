@@ -50,6 +50,52 @@ table {
 	border-spacing: 0;
 }
 
-/* -----------------END RESET---------------- */
+/* END OF RESET - Start of Your CSS*/
 
+body {
+	width: 960px;
+	margin: 0 auto;
+	position: relative;
+	line-height: 1;
+}
 
+#rama {
+
+	position: absolute;
+	top: 40px;
+	width: 45%;
+	margin: 0px;
+	padding: 10px;
+	font-family: helvetica;
+	display: block;
+}
+
+img {
+float: left;
+margin-right: 14px;
+margin-bottom: 8px;
+}
+
+h1 {
+	margin-bottom: 5px;
+	font-size: 25px;
+	font-weight: bold;
+}
+
+h2 {
+	font-size: 12px;
+	color: gray;
+	margin-bottom: 15px;
+}
+
+p { 
+font-size: 15px;
+}
+
+#little{
+position: absolute;
+top: 40px;
+right: 0px;
+width: 45%;
+padding: 10px;
+font-family: helvetica;
