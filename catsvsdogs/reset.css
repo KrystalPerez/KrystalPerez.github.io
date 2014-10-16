@@ -83,7 +83,7 @@ div {
 #main-menu {
 	position: relative;
 	height: 55px;
-	text-align: center;
+	text-align: justify;
 	padding: 2px;
 	border-top: 3px;
 	border-bottom: 3px;
