@@ -50,6 +50,10 @@ table {
 
 /* END OF RESET - Start of Your CSS*/
 
+html {
+	display: block;
+}
+
 header {
 	display: block;
 	vertical-align: baseline;
