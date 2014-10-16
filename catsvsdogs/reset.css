@@ -38,7 +38,8 @@ blockquote, q {
 	quotes: none;
 }
 blockquote:before, blockquote:after,
-q:before, q:after {
+q:before, 
+q:after {
 	content: '';
 	content: none;
 }
@@ -49,15 +50,20 @@ table {
 
 /* END OF RESET - Start of Your CSS*/
 
-#site-header {
-width: 445px;
-height: 95px;
-background: url(images/dogvscat-logo.gif) no-repeat center top;
-display: block;
-text-indent: -9999px;
-float:center;
-margin: 15px auto;
+header {
+	text-align: center;
+	display: block;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
 }
+
+
+
+
 nav {
 border-top: 4px solid black;
 border-bottom: 4px solid black;
