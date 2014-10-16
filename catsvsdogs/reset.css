@@ -86,7 +86,8 @@ nav {
 
 ul {
 	margin: 0 auto;
-	width: 950px;
+	width: 800px;
+	text-align: center;
 }
 
 li {
