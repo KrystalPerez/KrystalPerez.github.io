@@ -79,10 +79,12 @@ body {
 #main-menu {
 	position: relative;
 	height: 55px;
+	text-align: center;
+	padding: 2px;
 	border-top: 3px;
 	border-bottom: 3px;
 	border-style: solid;
-	display: inline-block;
+	display: block;
 }
 
 #main-menu li {
