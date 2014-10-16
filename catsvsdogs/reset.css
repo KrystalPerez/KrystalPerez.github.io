@@ -161,6 +161,7 @@ p.right-corner {
 	float: right;
 	text-align: right;
 	margin: 10px x 20px;
+	width: 240px;
 }
 
 em {
