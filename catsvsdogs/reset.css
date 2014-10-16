@@ -82,13 +82,6 @@ body {
 }
 
 div {
-	margin: 0;
-	padding: 0;
-	border: 0;
-	vertical-align: baseline;
-	text-align: center;
-	width: 960px;
-	height: 65px;
 	display: block;
 }
 
