@@ -81,6 +81,7 @@ h3 {
 	text-align: center;
 	float: left;
 	display: inline-block;
+	vertical-align: baseline;
 }
 
 
