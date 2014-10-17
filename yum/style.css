@@ -68,7 +68,7 @@ h2 {
 h3 {
 	font-family: georgia;
 	font-size: 18px;
-	text-transform: uppercase;
+	text-transform: capitalize;
 	font-style: italic;
 }
 
