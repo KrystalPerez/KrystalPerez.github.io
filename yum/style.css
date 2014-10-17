@@ -79,6 +79,10 @@ h3 {
 
 #subinfo1 { 
 	text-align: center;
+	margin: 0 auto;
+	padding: 7px;
+	height: 40px;
+	position: relative;
 }
 
 
