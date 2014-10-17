@@ -80,13 +80,10 @@ h3 {
 }
 
 #subinfo1 {
-	border-width: 5px;
 	margin: 0 auto;
-	padding: 7px;
-	height: 40px;
 	position: relative;
-	height: 55px;
 	vertical-align: baseline;
+	text-align: justify;
 }
 
 #subinfo2 {
