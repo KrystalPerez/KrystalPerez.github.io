@@ -93,7 +93,6 @@ h3 {
 	vertical-align: baseline;
 	text-align: right;
 	display: block;
-	width: 600px;
 }
 
 #ingredients {
@@ -118,7 +117,7 @@ h3 {
 
 ol {
 	margin: 0 auto;
-	width: 700px;
+	width: 500px;
 	text-align: justify;
 }
 
