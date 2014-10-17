@@ -79,8 +79,14 @@ h3 {
 	text-align: center;
 }
 
-#subinfo1{
-	
+#subinfo1 {
+	border-width: 5px;
+	margin: 0 auto;
+	padding: 7px;
+	height: 40px;
+	position: relative;
+	height: 55px;
+	vertical-align: baseline;
 }
 
 #subinfo2 {
