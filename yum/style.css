@@ -88,7 +88,11 @@ h3 {
 }
 
 #subinfo2 {
+	margin: 0 auto;
+	position: relative;
+	vertical-align: baseline;
 	text-align: justify;
+	display: block;
 }
 
 #ingredients {
