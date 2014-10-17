@@ -103,6 +103,13 @@ h3 {
 	font-style: italic;
 }
 
+#ingredients2 {
+	font-family: georgia;
+	font-size: 14px;
+	text-transform: capitalize;
+	font-style: italic;
+}
+
 #directions {
 	font-family: georgia;
 	font-size: 12px;
