@@ -84,7 +84,8 @@ h3 {
 	position: relative;
 	vertical-align: baseline;
 	text-align: justify;
-	display: inline-block;
+	display: block;
+	float: left;
 }
 
 #subinfo2 {
