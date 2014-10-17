@@ -53,12 +53,15 @@ table {
 
 /* END RESET */
 
+header {
+	text-align: left;
+}
+
 h1 {
 	font-family: georgia;
 	font-size: 34px;
 	text-transform: uppercase;
 	font-weight: bolder;
-	width: 700px;
 }
 
 h2 { 
