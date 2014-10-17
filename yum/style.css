@@ -54,7 +54,7 @@ table {
 /* END RESET */
 
 h1 {
-	font-family: georgia
+	font-family: georgia;
 	font-size: 24px;
 	text-transform: capitalize;
 }
