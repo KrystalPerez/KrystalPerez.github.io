@@ -103,7 +103,7 @@ li {
 	float: left;
 	margin: 0 auto;
 	padding: 7px;
-	text-transform: uppercase;
+	text-transform: capitalize;
 	font-family: georgia;
 	font-size: 14px;
 }
