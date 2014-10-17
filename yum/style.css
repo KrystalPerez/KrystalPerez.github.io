@@ -81,16 +81,10 @@ h3 {
 
 #subinfo1 {
 	margin: 0 auto;
-	width: 700px;
+	position: relative;
+	vertical-align: baseline;
 	text-align: justify;
-}
-
-li {
-	float: left;
-	margin: 0 auto;
-	padding: 7px;
-	font-family: georgia;
-	font-size: 14px;
+	display: block;
 }
 
 #subinfo2 {
