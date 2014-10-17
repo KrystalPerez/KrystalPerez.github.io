@@ -93,7 +93,20 @@ h3 {
 	font-style: normal;
 }
 
+ol {
+	margin: 0 auto;
+	width: 700px;
+	text-align: justify;
+}
 
+li {
+	float: left;
+	margin: 0 auto;
+	padding: 7px;
+	text-transform: uppercase;
+	font-family: georgia;
+	font-size: 14px;
+}
 
 
 
