@@ -94,7 +94,7 @@ h3 {
 	vertical-align: baseline;
 	text-align: justify;
 	display: block;
-	float: right;
+	width: 200px;
 }
 
 #ingredients {
