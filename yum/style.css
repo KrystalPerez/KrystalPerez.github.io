@@ -75,6 +75,7 @@ h3 {
 	font-size: 16px;
 	text-transform: capitalize;
 	font-weight: medium;
+	width: 250px;
 }
 
 #subheader {
@@ -100,7 +101,6 @@ h3 {
 	font-size: 14px;
 	text-transform: capitalize;
 	font-style: italic;
-	width: 600px;
 }
 
 #ingredients2 {
