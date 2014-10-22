@@ -56,6 +56,7 @@ body {
 	width: 1500px;
 	margin: 0 auto;
 	position: relative;
+	vertical-align: baseline;
 }
 
 #site-header {
@@ -71,6 +72,10 @@ background-color: #754911;
 text-decoration: none;
 }
 
+div {
+	display: block;
+	vertical-align: baseline;
+}
 
 
 
