@@ -76,6 +76,32 @@ font: inherit;
 vertical-align: baseline;
 }
 
+#site-header a img {
+margin-top: 5px;
+width: 225px;
+height: auto;
+margin-left: 402px;
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+}
+
+#top-nav a {
+text-decoration: none;
+font-size: 10px;
+color: #754911;
+font-family: helvetica;
+margin: 0;
+padding: 0;
+border: 0;
+font: inherit;
+vertical-align: baseline;
+}
+
+}
 #top-nav {
 position: absolute;
 right: 380px;
@@ -93,6 +119,33 @@ margin: 0;
 padding: 0;
 border: 0;
 font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+}
+
+#main-menu li {
+float: left;
+display: block;
+padding: 4px;
+margin-right: 10px;
+background-color: #754911;
+margin: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+}
+
+#main-menu li a {
+text-decoration: none;
+color: white;
+font-family: helvetica;
+text-transform: uppercase;
+font-weight: bolder;
+font-size: 12px;
+margin: 0;
+padding: 0;
+border: 0;
 font: inherit;
 vertical-align: baseline;
 }
@@ -131,6 +184,125 @@ font: inherit;
 vertical-align: baseline;
 }
 
+#page {
+position: absolute;
+top: 130px;
+left: 400px;
+float: left;
+width: 22%;
+background-color: white;
+margin: 20px 7px;
+padding: 2px;
+font-family: helvetica;
+display: block;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+}
+
+#page h1 {
+font-weight: bolder;
+font-size: 25px;
+text-transform: uppercase;
+color: #754911;
+display: block;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+}
+
+#page h2 {
+font-weight: bolder;
+font-size: 15px;
+text-transform: uppercase;
+margin-bottom: 5px;
+margin-top: 8px;
+color: #754911;
+display: block;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+}
+
+#page p {
+font-size: 10px;
+margin-bottom: 10px;
+line-height: 150%;
+display: block;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+-webkit-margin-before: 1em;
+-webkit-margin-after: 1em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+}
+
+#page h2 {
+font-weight: bolder;
+font-size: 15px;
+text-transform: uppercase;
+margin-bottom: 5px;
+margin-top: 8px;
+color: #754911;
+display: block;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+-webkit-margin-before: 0.83em;
+-webkit-margin-after: 0.83em;
+-webkit-margin-start: 0px;
+-webkit-margin-end: 0px;
+}
+
+#sidebar {
+float: right;
+width: 20%;
+margin-top: 70px;
+padding-bottom: 50px;
+background-color: white;
+color: #754911;
+margin-right: 350px;
+display: block;
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+}
+
+#sidebar h1 {
+font-family: helvetica;
+font-weight: bold;
+font-size: 15px;
+text-transform: uppercase;
+display: block;
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+}
+
+#sidebar a img {
+width: 200px;
+height: auto;
+display: block;
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+}
+
 #content-wrapper {
 margin: 0;
 padding: 0;
@@ -164,3 +336,66 @@ font-size: 100%;
 font: inherit;
 vertical-align: baseline;
 }
+
+#footer-contact {
+position: absolute;
+float: left;
+width: 7%;
+font-family: helvetica;
+color: white;
+font-size: 10px;
+margin-bottom: 10px;
+line-height: 150%;
+margin-left: 410px;
+display: block;
+padding: 0;
+border: 0;
+font: inherit;
+vertical-align: baseline;
+}
+
+#footer-contact h1 {
+font-weight: bolder;
+font-size: 15px;
+text-transform: uppercase;
+margin-top: 10px;
+margin-bottom: 8px;
+color: #cdc2aa;
+margin: 0;
+display: block;
+padding: 0;
+border: 0;
+font: inherit;
+vertical-align: baseline;
+}
+
+#footer-follow {
+float: right;
+margin-right: 500px;
+margin: 0;
+display: block;
+padding: 0;
+border: 0;
+font: inherit;
+vertical-align: baseline;
+}
+
+#footer-follow h1 {
+float: right;
+margin-right: 500px;
+font-weight: bolder;
+font-size: 15px;
+text-transform: uppercase;
+margin-top: 10px;
+margin-bottom: 8px;
+color: #cdc2aa;
+margin: 0;
+font-family: helvetica;
+display: block;
+padding: 0;
+border: 0;
+font: inherit;
+vertical-align: baseline;
+}
+
+
