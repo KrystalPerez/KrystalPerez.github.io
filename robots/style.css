@@ -50,3 +50,31 @@ table {
 	border-spacing: 0;
 }
 
+/* END OF RESET - Start of Your CSS*/
+
+body {
+	width: 1500px;
+	margin: 0 auto;
+	position: relative;
+}
+
+#site-header {
+position: relative;
+height: 90px;
+background-color: #ecf3d2;
+}
+
+#menu-wrapper {
+position: relative;
+height: 25px;
+background-color: #754911;
+text-decoration: none;
+}
+
+
+
+
+
+
+
+
