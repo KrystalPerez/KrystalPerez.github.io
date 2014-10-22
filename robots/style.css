@@ -57,12 +57,30 @@ body {
 	margin: 0 auto;
 	position: relative;
 	vertical-align: baseline;
+	font: inherit;
+	border: 0;
+	padding: 0;
+}
+
+div {
+	display: block;
+	vertical-align: baseline;
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font: inherit;
 }
 
 #site-header {
 position: relative;
 height: 90px;
 background-color: #ecf3d2;
+display: block;
+margin: 0;
+padding: 0;
+border: 0;
+font: inherit;
+vertical-align: baseline;
 }
 
 #menu-wrapper {
@@ -70,16 +88,31 @@ position: relative;
 height: 25px;
 background-color: #754911;
 text-decoration: none;
+display: block;
+margin: 0;
+padding: 0;
+border: 0;
+font: inherit;
+vertical-align: baseline;
 }
 
-div {
-	display: block;
-	vertical-align: baseline;
+#content-wrapper {
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+display: block;
 }
 
-
-
-
-
-
+#foot-wrapper {
+margin: 0;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+display: block;
+}
 
