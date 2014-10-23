@@ -393,7 +393,7 @@ border: 0;
 vertical-align: baseline;
 }
 
-ul {
+ul, li {
 	display: inline-block;
 	vertical-align: baseline;
 }
