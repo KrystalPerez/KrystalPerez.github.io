@@ -261,10 +261,9 @@ color: #754911;
 margin-right: 350px;
 display: block;
 margin: 0;
-padding: 0;
+padding-top: 50px;
 border: 0;
 font-size: 100%;
-font: inherit;
 vertical-align: baseline;
 }
 
@@ -321,10 +320,9 @@ height: 150px;
 background-color: #885c2f;
 display: block;
 margin: 0;
-padding: 0;
+padding-top: 10px;
 border: 0;
 font-size: 100%;
-font: inherit;
 vertical-align: baseline;
 }
 
