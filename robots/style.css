@@ -290,7 +290,7 @@ border: 0;
 vertical-align: baseline;
 }
 
-#aside li {
+#aside ul,li {
 display: inline-block;
 vertical-align: baseline;
 }
