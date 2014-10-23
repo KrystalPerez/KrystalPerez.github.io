@@ -240,36 +240,6 @@ font-family: helvetica;
 font-weight: bold;
 }
 
-#page p {
-margin-bottom: 10px;
-line-height: 150%;
-display: block;
-border: 0;
-font-size: 100%;
-vertical-align: baseline;
-font-family: helvetica;
-font-size: 9px;
-font-weight: 500;
-}
-
-#page h2 {
-font-weight: bolder;
-font-size: 15px;
-text-transform: uppercase;
-margin-bottom: 5px;
-margin-top: 8px;
-color: #754911;
-display: block;
-border: 0;
-font-size: 100%;
-font: inherit;
-vertical-align: baseline;
-margin-before: 0.83em;
-margin-after: 0.83em;
-margin-start: 0px;
-margin-end: 0px;
-}
-
 #sidebar {
 float: right;
 width: 20%;
