@@ -109,6 +109,8 @@ padding: 0;
 border: 0;
 font: inherit;
 vertical-align: baseline;
+font-family: helvetica;
+font-size: x-small;
 }
 
 #top-nav {
