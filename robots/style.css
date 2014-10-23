@@ -321,9 +321,6 @@ padding-top: 10px;
 border: 0;
 font-size: 100%;
 vertical-align: baseline;
-font-family: helvetica;
-color: white;
-font-size: 10px;
 }
 
 #footer-contact {
@@ -353,6 +350,18 @@ display: block;
 padding: 0;
 border: 0;
 vertical-align: baseline;
+}
+
+#footer p{
+margin-bottom: 5px;
+margin-top: 8px;
+color: white;
+display: block;
+border: 0;
+font-size: 10px;
+vertical-align: baseline;
+font-family: helvetica;
+line-height: 1.5;
 }
 
 #footer-follow {
