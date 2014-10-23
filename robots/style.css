@@ -244,18 +244,15 @@ font-weight: bold;
 }
 
 #page p {
-font-size: 10px;
 margin-bottom: 10px;
 line-height: 150%;
 display: block;
 border: 0;
 font-size: 100%;
-font: inherit;
 vertical-align: baseline;
-margin-before: 1em;
-margin-after: 1em;
-margin-start: 0px;
-margin-end: 0px;
+font-family: helvetica;
+font-size: 9px;
+font-weight: 500;
 }
 
 #page h2 {
