@@ -293,6 +293,8 @@ vertical-align: baseline;
 #aside ul,li {
 display: block;
 vertical-align: baseline;
+font-family: helvetica;
+font-size: 10px;
 }
 
 #content-wrapper {
