@@ -169,6 +169,18 @@ font: inherit;
 vertical-align: baseline;
 }
 
+#site-header a img {
+margin-top: 5px;
+width: 225px;
+height: auto;
+margin-left: 402px;
+padding: 0;
+border: 0;
+font-size: 100%;
+font: inherit;
+vertical-align: baseline;
+}
+
 #menu-wrapper {
 position: relative;
 height: 25px;
