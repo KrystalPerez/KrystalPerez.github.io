@@ -281,11 +281,6 @@ vertical-align: baseline;
 #sidebar a img {
 width: 200px;
 height: auto;
-margin: 0;
-padding: 0;
-border: 0;
-vertical-align: baseline;
-padding-top: 2px;
 }
 
 #sidebar ul,li {
