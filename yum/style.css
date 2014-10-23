@@ -117,6 +117,12 @@ h3 {
 	font-style: normal;
 }
 
+#directions ol {
+	margin: 0 auto;
+	width: 700px;
+	text-align: justify;
+}
+
 #ingredients1 li {
 	float: left;
 	margin: 0 auto;
