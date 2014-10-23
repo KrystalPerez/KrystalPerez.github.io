@@ -220,12 +220,11 @@ vertical-align: baseline;
 
 #page h1 {
 font-weight: bolder;
-font-size: 35px;
+font-size: 28px;
 text-transform: uppercase;
 color: #754911;
 display: block;
 border: 0;
-font: inherit;
 vertical-align: baseline;
 font-family: helvetica;
 padding-top: 18px;
