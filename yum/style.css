@@ -125,7 +125,6 @@ h3 {
 }
 
 #ingredients ol,li {
-	float: left;
 	margin: 0 auto;
 	padding: 7px;
 	font-family: georgia;
