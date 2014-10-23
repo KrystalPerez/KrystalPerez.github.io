@@ -238,10 +238,9 @@ color: #754911;
 display: block;
 border: 0;
 font-size: 15px;
-font: inherit;
 vertical-align: baseline;
 font-family: helvetica;
-font-weight: 600;
+font-weight: bold;
 }
 
 #page p {
