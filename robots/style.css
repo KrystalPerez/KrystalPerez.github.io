@@ -279,7 +279,7 @@ vertical-align: baseline;
 }
 
 #sidebar a img {
-width: 230px;
+width: 200px;
 height: auto;
 margin: 0;
 padding: 0;
@@ -300,6 +300,14 @@ vertical-align: baseline;
 display: block;
 padding: 0px;
 margin: 3px 0px 3px 0px;
+}
+
+#sidebar li a {
+text-decoration: none;
+font-family: helvetica;
+font-weight: bolder;
+font-size: 10px;
+color: #754911;
 }
 
 #content-wrapper {
