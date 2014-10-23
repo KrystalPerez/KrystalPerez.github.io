@@ -254,6 +254,7 @@ line-height: 1.5;
 
 #sidebar {
 float: right;
+width: 30%;
 margin-top: 70px;
 padding-bottom: 50px;
 background-color: white;
@@ -279,13 +280,18 @@ border: 0;
 vertical-align: baseline;
 }
 
-#sidebar ul, li, img {
+#sidebar a img {
 width: 200px;
 height: auto;
 display: block;
 margin: 0;
 padding: 0;
 border: 0;
+vertical-align: baseline;
+}
+
+#aside ul,li {
+display: block;
 vertical-align: baseline;
 font-family: helvetica;
 font-size: 10px;
