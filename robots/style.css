@@ -154,12 +154,13 @@ display: block;
 padding: 3px;
 margin-right: 10px;
 background-color: #754911;
-margin: 0;
 border: 0;
 font-size: 100%;
 font: inherit;
 vertical-align: baseline;
 font-family: helvetica;
+font-size: smaller;
+margin-top: 2px;
 }
 
 #main-menu li a {
