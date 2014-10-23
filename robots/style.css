@@ -396,4 +396,5 @@ vertical-align: baseline;
 ul, li {
 	display: inline-block;
 	vertical-align: baseline;
+	position: absolute;
 }
