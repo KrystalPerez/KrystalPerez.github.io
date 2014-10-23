@@ -382,13 +382,12 @@ vertical-align: baseline;
 }
 
 #footer-follow h1 {
-float: right;
 font-weight: bolder;
 font-size: 15px;
 text-transform: uppercase;
 margin-bottom: 8px;
 color: #cdc2aa;
-margin-right: 130px;
+margin-right: 300px;
 font-family: helvetica;
 display: block;
 padding: 0;
