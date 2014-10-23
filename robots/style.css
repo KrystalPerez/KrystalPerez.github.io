@@ -383,11 +383,9 @@ vertical-align: baseline;
 
 #footer-follow h1 {
 float: right;
-margin-right: 500px;
 font-weight: bolder;
 font-size: 15px;
 text-transform: uppercase;
-margin-top: 10px;
 margin-bottom: 8px;
 color: #cdc2aa;
 margin-right: 130px;
@@ -396,6 +394,7 @@ display: block;
 padding: 0;
 border: 0;
 vertical-align: baseline;
+margin-top: -20px;
 }
 
 ul, li {
