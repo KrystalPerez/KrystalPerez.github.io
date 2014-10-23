@@ -400,4 +400,5 @@ ul, li {
 
 ul, li img {
 	vertical-align: baseline;
+	margin-left: 100px;
 }
