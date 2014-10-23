@@ -109,17 +109,6 @@ display: block;
 padding-top: 3px;
 }
 
-#top-nav a {
-text-decoration: none;
-font-size: 10px;
-color: #754911;
-font-family: helvetica;
-margin: 0;
-padding-top: 3px;
-border: 0;
-vertical-align: baseline;
-}
-
 nav #main-menu {
 position: absolute;
 left: 405px;
