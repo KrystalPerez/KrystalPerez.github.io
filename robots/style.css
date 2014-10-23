@@ -397,3 +397,8 @@ ul, li {
 	display: inline-block;
 	vertical-align: baseline;
 }
+
+ul, li img {
+	vertical-align: baseline;
+	padding-left: 100px;
+}
