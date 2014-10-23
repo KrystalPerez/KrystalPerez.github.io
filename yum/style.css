@@ -117,13 +117,13 @@ h3 {
 	font-style: normal;
 }
 
-ol {
+#ingredients1 ol {
 	margin: 0 auto;
 	width: 700px;
 	text-align: justify;
 }
 
-li {
+#ingredients1 li {
 	float: left;
 	margin: 0 auto;
 	padding: 7px;
@@ -132,6 +132,20 @@ li {
 	line-height: 1.3em;
 }
 
+#ingredients2 ol {
+	margin: 0 auto;
+	width: 700px;
+	text-align: justify;
+}
+
+#ingredients2 li {
+	float: left;
+	margin: 0 auto;
+	padding: 7px;
+	font-family: georgia;
+	font-size: 14px;
+	line-height: 1.3em;
+}
 
 
 
