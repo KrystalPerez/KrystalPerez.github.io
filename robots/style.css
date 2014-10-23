@@ -288,7 +288,7 @@ margin: 0;
 padding: 0;
 border: 0;
 vertical-align: baseline;
-border-top: 5px;
+padding-top: 2px;
 }
 
 #aside ul,li {
