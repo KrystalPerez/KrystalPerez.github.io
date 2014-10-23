@@ -101,7 +101,6 @@ font: inherit;
 vertical-align: baseline;
 }
 
-}
 #top-nav {
 position: absolute;
 right: 380px;
@@ -236,10 +235,10 @@ border: 0;
 font-size: 100%;
 font: inherit;
 vertical-align: baseline;
--webkit-margin-before: 1em;
--webkit-margin-after: 1em;
--webkit-margin-start: 0px;
--webkit-margin-end: 0px;
+margin-before: 1em;
+margin-after: 1em;
+margin-start: 0px;
+margin-end: 0px;
 }
 
 #page h2 {
@@ -254,10 +253,10 @@ border: 0;
 font-size: 100%;
 font: inherit;
 vertical-align: baseline;
--webkit-margin-before: 0.83em;
--webkit-margin-after: 0.83em;
--webkit-margin-start: 0px;
--webkit-margin-end: 0px;
+margin-before: 0.83em;
+margin-after: 0.83em;
+margin-start: 0px;
+margin-end: 0px;
 }
 
 #sidebar {
