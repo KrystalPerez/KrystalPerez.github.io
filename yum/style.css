@@ -133,7 +133,7 @@ h3 {
 }
 
 #ingredients2 ol,li {
-	float: left;
+	float: right;
 	margin: 0 auto;
 	padding: 7px;
 	font-family: georgia;
