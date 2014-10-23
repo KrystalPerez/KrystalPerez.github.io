@@ -367,12 +367,11 @@ width: 25%;
 
 #footer-follow {
 float: right;
-margin-right: 500px;
+margin-right: 300px;
 margin: 0;
 display: block;
 padding: 0;
 border: 0;
-font: inherit;
 vertical-align: baseline;
 }
 
