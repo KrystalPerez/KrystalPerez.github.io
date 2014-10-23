@@ -296,6 +296,12 @@ list-style: none;
 vertical-align: baseline;
 }
 
+#sidebar li {
+display: block;
+padding: 0px;
+margin: 3px 0px 3px 0px;
+}
+
 #content-wrapper {
 margin: 0;
 padding: 0;
