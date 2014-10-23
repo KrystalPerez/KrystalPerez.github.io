@@ -281,6 +281,8 @@ vertical-align: baseline;
 #sidebar a img {
 width: 200px;
 height: auto;
+position: relative;
+top: 200px;
 }
 
 #sidebar ul,li {
