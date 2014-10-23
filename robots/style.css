@@ -392,11 +392,6 @@ border: 0;
 vertical-align: baseline;
 }
 
-ul, li {
-	display: inline-block;
-	vertical-align: baseline;
-}
-
 ul, li img {
 	vertical-align: baseline;
 	border-left: 300px;
