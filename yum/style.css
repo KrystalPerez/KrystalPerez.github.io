@@ -141,6 +141,8 @@ padding-right: 90px;
 padding-top: 10px;
 }
 
-
+#background {
+	background: ("images/lemon.jpg")
+}
 
 
