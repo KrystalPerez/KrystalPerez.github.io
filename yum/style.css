@@ -125,12 +125,13 @@ h3 {
 }
 
 #ingredients ol,li {
-	margin: 0 auto;
-	padding: 7px;
-	font-family: georgia;
-	font-size: 14px;
-	line-height: 1.3em;
-	padding-left: 30px;
+margin: 0 auto;
+padding: 3px;
+font-family: georgia;
+font-size: 14px;
+line-height: 1em;
+padding-left: 30px;
+padding-top: 10px;
 }
 
 
