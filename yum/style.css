@@ -108,6 +108,8 @@ body {
 	font-size: 14px;
 	text-transform: capitalize;
 	font-style: italic;
+	position: fixed;
+	padding-top: 30px;
 }
 
 #directions {
