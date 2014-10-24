@@ -59,6 +59,7 @@ h1 {
 	font-weight: bolder;
 	padding-left: 200px;
 	padding-top: 20px;
+	position: fixed;
 }
 
 h2 { 
