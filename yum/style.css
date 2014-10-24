@@ -83,8 +83,9 @@ padding-top: 50px;
 padding-left: 598px;
 }
 
-head {
- background-image: url(yum/lemon.jpeg); 
+body {
+text-align: center;
+ background-image: url(yum/lemon.jpeg) center;
 }
 
 #subheader {
