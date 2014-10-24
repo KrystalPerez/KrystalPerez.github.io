@@ -76,6 +76,7 @@ text-transform: capitalize;
 text-align: left;
 width: 350px;
 float: right;
+padding-right: 90px;
 }
 
 #subheader {
