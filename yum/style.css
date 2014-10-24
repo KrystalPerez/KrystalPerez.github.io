@@ -79,6 +79,9 @@ float: right;
 padding-right: 70px;
 padding-top: 10px;
 }
+body {
+ background-image: url(lemon.png); 
+}
 
 #subheader {
 	margin: 0 auto;
