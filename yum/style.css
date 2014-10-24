@@ -81,7 +81,9 @@ padding-top: 10px;
 }
 
 #background {
-	background-image: url ("images/lemon.jpg") 
+ position: fixed; 
+  top: 0; 
+  left: 0; 
 }
 
 #subheader {
