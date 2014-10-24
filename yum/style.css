@@ -51,9 +51,7 @@ table {
 
 
 /* END RESET */
-html {
-	background: url(images/lemon.jpg) no repeat center fixed;
-}
+
 h1 {
 	font-family: georgia;
 	font-size: 42px;
@@ -82,8 +80,8 @@ padding-right: 70px;
 padding-top: 10px;
 }
 
-.background {
-	background-image: url ("http//:krystalperez.github.io.yum-lemon.jpg") 
+#background {
+	background-image: url ("images/lemon.jpg") 
 }
 
 #subheader {
