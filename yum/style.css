@@ -123,6 +123,7 @@ font-size: 14px;
 width: 700px;
 padding-left: 140px;
 padding-top: 270px;
+position: fixed;
 }
 
 #directions ol, li {
