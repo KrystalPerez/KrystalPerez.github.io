@@ -79,8 +79,7 @@ float: right;
 padding-right: 70px;
 padding-top: 10px;
 }
-
-#background {
+body {
  background-image: url(lemon.png); 
 }
 
