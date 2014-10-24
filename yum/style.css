@@ -79,13 +79,14 @@ float: right;
 padding-right: 70px;
 padding-top: 10px;
 }
+
 body {
  background-image: url(lemon.png); 
 }
 
 #subheader {
 	margin: 0 auto;
-	position: relative;
+	position: fixed;
 	vertical-align: baseline;
 	text-align: justify;
 	display: inline-block;
@@ -96,7 +97,7 @@ body {
 
 #subinfo2 {
 	margin: 0 auto;
-	position: relative;
+	position: fixed;
 	vertical-align: baseline;
 	text-align: right;
 	display: block;
