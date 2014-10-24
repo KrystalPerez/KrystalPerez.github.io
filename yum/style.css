@@ -81,9 +81,7 @@ padding-top: 10px;
 }
 
 #background {
- position: fixed; 
-  top: 0; 
-  left: 0; 
+ background-image: url(lemon.png); 
 }
 .background {width:100%;}
 .background {height:100%;}
