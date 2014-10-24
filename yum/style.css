@@ -80,6 +80,10 @@ padding-right: 70px;
 padding-top: 10px;
 }
 
+.background {
+	background-image: url ("images/yum-lemon.jpg") 
+}
+}
 #subheader {
 	margin: 0 auto;
 	position: relative;
