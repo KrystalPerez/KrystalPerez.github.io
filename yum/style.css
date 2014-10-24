@@ -70,13 +70,12 @@ h2 {
 }
 
 h3 {
-	font-family: georgia;
-	font-size: 16px;
-	text-transform: capitalize;
-	font-weight: medium;
-	text-align: left;
-	width: 300px;
-	float: right;
+font-family: georgia;
+font-size: 15px;
+text-transform: capitalize;
+text-align: left;
+width: 350px;
+float: right;
 }
 
 #subheader {
