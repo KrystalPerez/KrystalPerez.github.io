@@ -109,6 +109,7 @@ body {
 	text-transform: capitalize;
 	font-style: italic;
 	position: fixed;
+	padding-left: 190px;
 }
 
 #directions {
