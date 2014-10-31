@@ -52,11 +52,11 @@ table {
 
 @font-face {
     font-family: 'league_gothicregular';
-    src: url('leaguegothic-regular-webfont.eot');
-    src: url('leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('leaguegothic-condensedregular-webfont.woff2') format('woff2'),
-         url('leaguegothic-italic-webfont.woff2') format('woff2')
-         url('leaguegothic-condenseditalic-webfont.woff2') format('woff2'), format('svg');
+    src: url('type/leaguegothic-regular-webfont.eot');
+    src: url('type/leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('type/leaguegothic-condensedregular-webfont.woff2') format('woff2'),
+         url('type/leaguegothic-italic-webfont.woff2') format('woff2')
+         url('type/eaguegothic-condenseditalic-webfont.woff2') format('woff2'), format('svg');
     font-weight: normal;
     font-style: normal;
 }
