@@ -50,6 +50,16 @@ table {
 
 /* END OF RESET - Start of Your CSS*/
 
+@font-face {
+    font-family: 'league_gothicregular';
+    src: url('leaguegothic-regular-webfont.eot');
+    src: url('leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('leaguegothic-condensedregular-webfont.woff2') format('woff2'),
+         url('leaguegothic-italic-webfont.woff2') format('woff2')
+         url('leaguegothic-condenseditalic-webfont.woff2') format('woff2'), format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
 
 header {
 	text-align: center;
@@ -166,17 +176,3 @@ em {
 	color: red;
 }
 
-
-
-
-@font-face {
-    font-family: 'league_gothicregular';
-    src: url('leaguegothic-regular-webfont.eot');
-    src: url('leaguegothic-regular-webfont.eot?#iefix') format('embedded-opentype'),
-         url('leaguegothic-condensedregular-webfont.woff2') format('woff2'),
-         url('leaguegothic-italic-webfont.woff2') format('woff2')
-         url('leaguegothic-condenseditalic-webfont.woff2') format('woff2'), format('svg');
-    font-weight: normal;
-    font-style: normal;
-
-}
