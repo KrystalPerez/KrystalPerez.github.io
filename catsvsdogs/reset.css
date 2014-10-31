@@ -71,6 +71,7 @@ header {
 }
 
 body {
+	font-family: leaguegothic-regular;
 	width: 960px;
 	margin: 0 auto;
 	position: relative;
