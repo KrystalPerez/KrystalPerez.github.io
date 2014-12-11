@@ -70,6 +70,10 @@ header {
 	background-color: white;
 }
 
+.container {
+  width: 538px;
+}
+
 body {
 	font-family: leaguegothic-regular;
 	width: 960px;
